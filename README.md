@@ -1,5 +1,5 @@
 # Medical-Predictions-Database-Design-and-Analysis
-Analysis of several prescription data to understand more about the types of medication being  prescribed, the organisations doing the prescribing, and the quantities prescribed. 
+Analysis of several prescription data using TSQL to understand more about the types of medication being  prescribed, the organisations doing the prescribing, and the quantities prescribed. 
 
 ## The Data
 These files are an excerpt from a larger file which is a real-world dataset released every month by 
